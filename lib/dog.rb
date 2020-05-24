@@ -8,5 +8,5 @@ class Dog
     ( ) = "Mutt"
     @breed = breed
   end
-  
-end  
+
+end
